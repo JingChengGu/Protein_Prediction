@@ -1,5 +1,5 @@
 # Protein_Prediction
-### Names: Ethan Deng, Jason Gu
+### Names: Jason Gu, Ethan Deng
 
 # Overview
 Here is our exploratory data analysis on this dataset: https://ethandengg.github.io/Protein_Analysis/
